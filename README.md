@@ -1,2 +1,1 @@
-# traffup_bot
-traffup semi bot imacros script
+# traffup_bot<div><div>This traffup imacros script is semi-automatic</div><div>you have to complete manual anti-bots</div><div><br /></div><div>More tutorials <a href="https://www.akuh.net">akuh.net</a></div></div>
