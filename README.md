@@ -1,2 +1,2 @@
-# traffup_bot imacros script
-traffup semi bot
+# traffup_bot
+traffup semi bot imacros script
